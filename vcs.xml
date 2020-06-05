@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/dkong3/nand2tetris_1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dkong3/Gene.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\DEXINKONG\PycharmProjects" />
